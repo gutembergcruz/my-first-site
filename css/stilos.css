@@ -1,0 +1,102 @@
+body{
+    background-image: url(img/cheerful-show-concert.jpg);
+    position: fixed;
+    }
+#logo{
+        
+}
+#logo1{
+    
+}
+#logo2{
+    
+}
+#logo3{
+    
+}
+#menu{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    width: 1300px;
+    font-family: manuale;
+            
+}
+#conteudo{
+    height: auto;
+    width: 1500px;
+}
+#conteudo1{
+    height: auto;
+    width: 1350px
+}
+p{
+    width: 1200px;
+    height: 350px;
+    color: white;
+    font-size: 23px
+        
+}
+h1,h2,h3{
+    color: aliceblue;
+}
+
+#introducao{
+    height:;
+    width: 1500px;
+    margin:; 
+}
+#banda1{
+    display: table-cell;
+    float: left;
+    }
+#para{
+    display: table-cell;
+    float: left;
+    width: 600px;
+    margin-left: 50px;
+}
+
+#banda2{
+    display: table-cell;
+    float: left;
+    }
+#para1{
+    display: table-cell;
+    float: left;
+    width: 600px;
+    margin-left: 50px;
+}
+
+p2{ width: 1200px;
+    height: 350px;
+    color: white;
+    font-size: 23px
+}
+
+#a1{ display: table-cell;
+    float: left;
+    margin-left: 30px;
+    
+}
+#a2{display: table-cell;
+    float: left;
+    margin-left: 30px;
+    
+}
+#a3{display: table-cell;
+    float: left;
+    margin-left: 30px;
+    
+}
+#a4{display: table-cell;
+    float: left;
+    margin-left: 50px;
+}
+
+#1{
+ 
+}
+h2{
+    background-color: 
+}
